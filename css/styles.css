@@ -1,0 +1,17 @@
+.heading{
+  background-color: #0D7377;
+  text-align: center;
+  padding: 3% 15% ;
+}
+
+.video{
+  text-align: center;
+  background-color: #FEFDCA;
+  padding: 3% 15%;
+}
+
+.container{
+  margin: 10% auto;
+  text-align: center;
+  font-size: 30px;
+}
